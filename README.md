@@ -9,7 +9,7 @@
 
 > A curated list of awesome things related to Vue.js
 
-- [Resources](#resources)
+- [资源](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
   - [Job Portal](#job-portal)
